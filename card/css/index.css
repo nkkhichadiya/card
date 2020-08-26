@@ -1,0 +1,86 @@
+body{
+    font-family: 'Gotham',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+#trending-policy .card{
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid rgba(213, 213, 213, 0.4);
+    box-sizing: border-box;
+    box-shadow: 0px 5px 15px rgba(24, 24, 24, 0.05);
+    border-radius: 2px;
+}
+#trending-policy .card-body{
+    padding: 40px;
+}
+#trending-policy .card-title{
+    font-size: 20px;
+    line-height: 150%;
+    color: #181818;
+}
+#trending-policy .card-text-light{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    text-transform: uppercase;
+    color: #9E9E9E;
+}
+#trending-policy .card-text{
+    font-size: 18px;
+    line-height: 150%;
+    color: #181818;
+}
+#trending-policy .card-text-small{
+    font-size: 12px;
+    line-height: 150%;
+    color: #181818;
+}
+#popular-funds .card{
+    background: #FFFFFF;
+    border: 1px solid rgba(213, 213, 213, 0.4);
+    box-shadow: 0px 5px 15px rgba(24, 24, 24, 0.05);
+    border-radius: 2px;
+}
+#popular-funds .card-border:not(:last-child)::after{
+    content: '';
+    width: auto;
+    left: 0;
+    right: 5.41%;
+    height: 2px;
+    position: absolute;
+    border: 1px solid #E5E5E5;
+}
+#popular-funds .card-body{
+    padding: 64px 33px;
+}
+#popular-funds .card-logo{
+    padding: 0 40px 0 0;
+}
+#popular-funds .card-logo img{
+    width: 40px;
+    height: 40px;
+}
+#popular-funds .card-title{
+    font-size: 20px;
+    line-height: 150%;
+}
+#popular-funds .card-text-green{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #42CF10;
+}
+#popular-funds .card-text-light{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    text-transform: uppercase;
+    color: #9E9E9E;
+    margin: 0;
+}
+#popular-funds .card-text{
+    font-size: 18px;
+    line-height: 150%;
+    color: #181818;
+}

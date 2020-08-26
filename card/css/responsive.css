@@ -1,0 +1,187 @@
+@media(min-width:1441px){
+    #trending-policy .card{
+        width: 100%;
+    }
+    #trending-policy .card-title{
+        font-size: 24px;
+    }
+    #trending-policy .card-text{
+        font-size: 24px;
+    }
+    #trending-policy .card-text-small{
+        font-size: 12px;
+    }
+    #popular-funds .card-body{
+        padding: 40px;
+    }
+    #popular-funds .card-title{
+        font-size: 24px;
+    }
+}
+
+@media(max-width:576px){
+    .col-w{
+        width: 100%;
+        margin: 15px 0;
+    }
+    #trending-policy .card{
+        width: 100%;
+    }
+    #trending-policy .card-body{
+        padding: 20px;
+    }
+    #trending-policy .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-light{
+        font-size: 12px;
+    }
+    #trending-policy .card-text{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-small{
+        font-size: 10px;
+        line-height: 150%;
+    }
+    #popular-funds .card-border::after{
+       display: none;
+    }
+    #popular-funds .card-border{
+        padding: 20px;
+        background: #FFFFFF;
+        border: 1px solid rgba(213, 213, 213, 0.4);
+        box-sizing: border-box;
+        box-shadow: 0px 5px 15px rgba(24, 24, 24, 0.05);
+        border-radius: 2px;
+    }
+    #popular-funds .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #popular-funds .card-text-green{
+        font-size: 14px;
+        line-height: 150%;   
+    }
+    #popular-funds .card-text-light{
+        font-size: 12px;
+        line-height: 150%;
+    }
+    #popular-funds .card-text{
+        font-size: 14px;
+        line-height: 150%;
+    }
+}
+
+@media(max-width:768px) and (min-width:576px){
+    .col-w{
+        width: 46%;
+        margin: 10px;
+    }
+    #trending-policy .card{
+        width: 100%;
+    }
+    #trending-policy .card-body{
+        padding: 20px;
+    }
+    #trending-policy .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-light{
+        font-size: 12px;
+    }
+    #trending-policy .card-text{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-small{
+        font-size: 10px;
+        line-height: 150%;
+    }
+    #popular-funds .card-body {
+        padding: 64px 10px;
+    }
+    #popular-funds .card-border::after{
+       display: none;
+    }
+    #popular-funds .card-border{
+        padding: 20px;
+        background: #FFFFFF;
+        border: 1px solid rgba(213, 213, 213, 0.4);
+        box-sizing: border-box;
+        box-shadow: 0px 5px 15px rgba(24, 24, 24, 0.05);
+        border-radius: 2px;
+    }
+    #popular-funds .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #popular-funds .card-text-green{
+        font-size: 14px;
+        line-height: 150%;   
+    }
+    #popular-funds .card-text-light{
+        font-size: 12px;
+        line-height: 150%;
+    }
+    #popular-funds .card-text{
+        font-size: 14px;
+        line-height: 150%;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    #trending-policy .card{
+        width: 100%;
+    }
+    #trending-policy .card-body{
+        padding: 20px;
+    }
+    #trending-policy .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-light{
+        font-size: 12px;
+    }
+    #trending-policy .card-text{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #trending-policy .card-text-small{
+        font-size: 10px;
+        line-height: 150%;
+    }
+    .col-w{
+        max-width: 30%;
+        margin: 10px;
+    }
+    #popular-funds .card-border::after{
+       display: none;
+    }
+    #popular-funds .card-border{
+        padding: 20px;
+        background: #FFFFFF;
+        border: 1px solid rgba(213, 213, 213, 0.4);
+        box-sizing: border-box;
+        box-shadow: 0px 5px 15px rgba(24, 24, 24, 0.05);
+        border-radius: 2px;
+    }
+    #popular-funds .card-title{
+        font-size: 16px;
+        line-height: 160%;
+    }
+    #popular-funds .card-text-green{
+        font-size: 14px;
+        line-height: 150%;   
+    }
+    #popular-funds .card-text-light{
+        font-size: 12px;
+        line-height: 150%;
+    }
+    #popular-funds .card-text{
+        font-size: 14px;
+        line-height: 150%;
+    }
+}
